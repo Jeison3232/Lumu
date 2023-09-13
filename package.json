@@ -1,0 +1,15 @@
+{
+  "name": "cucumber_selenium",
+  "version": "1.0.0",
+  "description": "Test report",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.21.6"
+  }
+}
